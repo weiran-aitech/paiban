@@ -51,24 +51,28 @@
 ![image](https://user-images.githubusercontent.com/84350533/219944533-d0661a77-8b62-42c3-a45a-3077948fc8e4.png)
 在此轮班安排中，每位员工每周工作40小时。每位员工连续两天的班次不同，且两个班次之间至少间隔24小时。
 
-### 5. Creating a schedule for 13 employees over a 7-day period, subject to the following constraints:
-- Each day is divided into three 8-hour shifts (Night, Day, Evening). 
-- The number of employees required for the same shift-type varies from day to day:
+### 5. 在满足以下限制条件的前提下，为 13 名员工制定为期 7 天的工作计划：
+- 每天分为三个 8 小时班次（夜班-Night、白班-Day、晚班-Evening）。 
+- 同一班次所需的员工人数每天都不一样：
 - ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/04354674-621a-4128-8f42-d7cf77e76e54)
-- Every day, no employee works more than one shift.
-- No employee works more than 40 hours in 7-day period.
-- Number of shifts are evenly assigned to employees.
-- Each employee has at least two days off in the 7-day period.
-- Staff_3, Staff_4 and Staff_5 do not work on the same shift simultaneously.
+- 每天，每名员工最多上一个班次。
+- 所有员工在7天内工作时间均不超过40小时。
+- 员工的轮班次数平均分配。
+- 每位员工在7天周期内至少有两天休息时间。
+- Staff_3、Staff_4 和 Staff_5 不会同时上同一班次。
 
-Software solution:
+软件解决方案:
 ![image](https://user-images.githubusercontent.com/84350533/222693703-fb018451-c445-4248-8870-ce92dafbb378.png)
-In this shift schedule, 3 employees work for 32 hours and 10 employees work for 40 hours a week. The shifts assigned to each employee are different on two consecutive days, and they are spaced by at least 24 hours.
+在此轮班安排中，3名员工每周工作32小时，10名员工每周工作40小时。每位员工连续两天的班次都不同，且两个班次之间至少间隔24小时。
 
-### 6. Creating one day's schedule for 7 employees in a retail store, subject to the following constraints:
-- Personnel required may vary every half hour
+### 6. 在满足以下限制条件的前提下，为一家零售店的 7 名员工制定一天的工作安排：
+- 所需人员可能每半小时不同：
  ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/d5388c27-1c30-4ae8-913d-e7d3fce6084b)
-- A minimum of 2 hours and a maximum of 4 hours constitute a shift
-- Shift intervals must be at least half an hour
-- Employees can work up to 8 hours per day and 40 hours per week
-- Between 11:00 and 14:00, and between 17:00 and 20:00, everyone has at least a half-hour break (for lunch and dinner respectively)
+- 每个轮班最短为 2 小时，最长为 4 小时。
+- 轮班间隔至少为半小时。
+- 员工每天最多工作 8 小时，每周最多工作 40 小时。
+- 上午 11:00 至下午 2:00 以及下午 5:00 至晚上 8:00，每个人至少有半小时的休息时间（分别是午餐和晚餐时间）。
+
+软件的一种解决方案：:
+![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/da19e8b8-b09c-4588-87c2-e9be373cc578)
+在此轮班安排中，4 名员工每天工作 5.5 小时，3 名员工每天工作 6 小时（每个彩色框代表半小时）。
