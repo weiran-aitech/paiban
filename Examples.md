@@ -50,3 +50,25 @@
 软件解决方案:
 ![image](https://user-images.githubusercontent.com/84350533/219944533-d0661a77-8b62-42c3-a45a-3077948fc8e4.png)
 在此轮班安排中，每位员工每周工作40小时。每位员工连续两天的班次不同，且两个班次之间至少间隔24小时。
+
+### 5. Creating a schedule for 13 employees over a 7-day period, subject to the following constraints:
+- Each day is divided into three 8-hour shifts (Night, Day, Evening). 
+- The number of employees required for the same shift-type varies from day to day:
+- ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/04354674-621a-4128-8f42-d7cf77e76e54)
+- Every day, no employee works more than one shift.
+- No employee works more than 40 hours in 7-day period.
+- Number of shifts are evenly assigned to employees.
+- Each employee has at least two days off in the 7-day period.
+- Staff_3, Staff_4 and Staff_5 do not work on the same shift simultaneously.
+
+Software solution:
+![image](https://user-images.githubusercontent.com/84350533/222693703-fb018451-c445-4248-8870-ce92dafbb378.png)
+In this shift schedule, 3 employees work for 32 hours and 10 employees work for 40 hours a week. The shifts assigned to each employee are different on two consecutive days, and they are spaced by at least 24 hours.
+
+### 6. Creating one day's schedule for 7 employees in a retail store, subject to the following constraints:
+- Personnel required may vary every half hour
+ ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/d5388c27-1c30-4ae8-913d-e7d3fce6084b)
+- A minimum of 2 hours and a maximum of 4 hours constitute a shift
+- Shift intervals must be at least half an hour
+- Employees can work up to 8 hours per day and 40 hours per week
+- Between 11:00 and 14:00, and between 17:00 and 20:00, everyone has at least a half-hour break (for lunch and dinner respectively)
