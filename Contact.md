@@ -1,3 +1,3 @@
 ## 联系:
-- Email:weiran@kpnmail.nl; weiran.aitech@gmail.com
-- WeChat:wraitech
+- 电子邮箱:weiran@kpnmail.nl; weiran.aitech@gmail.com
+- 微信:wraitech
