@@ -2,4 +2,4 @@
 - 电子邮箱:weiran@kpnmail.nl; weiran.aitech@gmail.com
 - 微信:wraitech
 
-请加备注：排班咨询
+请在标题或备注中添加“排班咨询”。
