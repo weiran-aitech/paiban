@@ -6,4 +6,6 @@
 
 ## Download Excel File
 
-[Download](introduction/MonthSchedule.xlsx)
+<a href="introduction/MonthSchedule.xlsx" download>
+  Download Excel File
+</a>
