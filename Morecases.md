@@ -1,16 +1,14 @@
 ## 月排班案例
 
-- Creating a schedule for 10 employees over one month period, subject to the following constraints:
-  - Each day is divided into three 8-hour shifts. Each shift type requires different number of employees.
-     - A-shift：00:00-08:00（1 employee required）
-     - B-sfhit：08:00-16:00（3 employees required）
-     - C-shift：16:00-24:00（3 employees required）
-  - Every day, no employee works more than one shift.
-  - Number of shifts are evenly assigned to employees.
-  - Each employee has at least two-day off in one week.
-- In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 hours a week. Shifts assigned 
-to each employee are spaced by at least 24 hours. For each employee, different shift types are assigned in 
-two adjacent days.
+- 为10名员工制定一个月的排班方案并满足以下约束条件：:
+  - 每天分为三个班次，每班8小时，每个班次所需的员工人数不同。
+     - A-班：00:00-08:00（要求1个员工）
+     - B-班：08:00-16:00（要求3个员工）
+     - C-班：16:00-24:00（要求3个员工）
+  - 每天，每名员工最多上一个班次。
+  - 员工的轮班次数平均分配。
+  - 每位员工每周至少休息两天。
+- 在此排班方案中，9名员工每周工作40小时，1名员工每周工作32小时。分配给每位员工的班次之间至少间隔24小时。对于每位员工，相邻两天被分配不同的班次类型。
 
 #### 下载月排班Excel文件
 <a href="introduction/MonthSchedule.xlsx" download>
