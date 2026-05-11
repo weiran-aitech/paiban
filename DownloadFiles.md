@@ -6,4 +6,4 @@
 
 ## Download Excel File
 
-[Download Month Schedule](introduction/MonthSchedule.xlsx)
+[Download](introduction/MonthSchedule.xlsx)
