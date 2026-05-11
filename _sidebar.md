@@ -2,8 +2,8 @@
 - [示例](Examples.md)
 - [更多示例](Morecases.md)
 - 使用指南
-   - [视频](IntroductionVideo.mp4)
-   - [月排班](MonthSchedule.xlsx)
+   - [视频](introduction/IntroductionVideo.mp4)
+   - [月排班](introduction/MonthSchedule.xlsx)
 - [咨询服务](Service.md)
 - [联系我们](Contact.md)
 <!--
