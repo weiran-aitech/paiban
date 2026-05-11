@@ -1,7 +1,7 @@
-## Download Month Schedule
+## 下载月排班
 
 <a href="introduction/MonthSchedule.xlsx" download>
-  Download
+  下载
 </a>
 
 ## 欲了解更多案例可访问
