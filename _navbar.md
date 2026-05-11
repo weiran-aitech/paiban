@@ -1,2 +1,2 @@
-* [GitHub](https://github.com/weiran-aitech/paiban)
-* [Docs](#/)
+* [Home](#/)
+* [Guide](#/guide/getting-started)
