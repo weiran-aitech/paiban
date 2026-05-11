@@ -10,10 +10,7 @@
   - 每位员工每周至少休息两天。
 - 引擎导出的排班方案：7名员工工作22天(176小时)，3名员工工作21天(168小时）。分配给每位员工的班次之间至少间隔24小时，每位员工相邻两天上不同的班次类型。
 
-#### 点击下载方案：
-<a href="introduction/MonthSchedule.xlsx" download>
-  下载
-</a>
+#### 点击下载方案：<a href="introduction/MonthSchedule.xlsx" download> 下载 </a>
 
 ## 欲了解更多案例可访问
 
