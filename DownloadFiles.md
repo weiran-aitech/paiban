@@ -7,5 +7,5 @@
 ## Download Excel File
 
 <a href="introduction/MonthSchedule.xlsx" download>
-  Download Excel File
+  Download
 </a>
