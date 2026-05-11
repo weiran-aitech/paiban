@@ -1,2 +1,2 @@
 * [首页](README.md)
-* [联系我们](#/Contact)
+* [联系我们](Contact.md)
