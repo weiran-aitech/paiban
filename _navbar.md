@@ -1,2 +1,2 @@
-* [Home](#/)
-* [Guide](#/guide/getting-started)
+* [首页](#/)
+* [联系我们](#/Contact)
